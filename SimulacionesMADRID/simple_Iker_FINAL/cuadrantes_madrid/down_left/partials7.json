@@ -1,0 +1,2087 @@
+[
+    {
+        "edge": "-107090824#2",
+        "vehicles": 2,
+        "vehicle_rates": {
+            "0": {
+                "sumo_id": 0,
+                "omnet_id": 0,
+                "rate": 24.5653333333336
+            },
+            "1": {
+                "sumo_id": 1,
+                "omnet_id": 1,
+                "rate": 24.5653333333336
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "-11101490#1",
+        "vehicles": 7,
+        "vehicle_rates": {
+            "2": {
+                "sumo_id": 10,
+                "omnet_id": 2,
+                "rate": 24.5672
+            },
+            "215": {
+                "sumo_id": 4,
+                "omnet_id": 215,
+                "rate": 24.5728
+            },
+            "226": {
+                "sumo_id": 5,
+                "omnet_id": 226,
+                "rate": 24.5709333333336
+            },
+            "237": {
+                "sumo_id": 6,
+                "omnet_id": 237,
+                "rate": 24.5634666666664
+            },
+            "248": {
+                "sumo_id": 7,
+                "omnet_id": 248,
+                "rate": 24.5616
+            },
+            "259": {
+                "sumo_id": 8,
+                "omnet_id": 259,
+                "rate": 24.5616
+            },
+            "270": {
+                "sumo_id": 9,
+                "omnet_id": 270,
+                "rate": 24.5653333333336
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "219137730#1",
+        "vehicles": 5,
+        "vehicle_rates": {
+            "3": {
+                "sumo_id": 100,
+                "omnet_id": 3,
+                "rate": 24.569066666666398
+            },
+            "4": {
+                "sumo_id": 101,
+                "omnet_id": 4,
+                "rate": 24.569066666666398
+            },
+            "278": {
+                "sumo_id": 97,
+                "omnet_id": 278,
+                "rate": 24.5672
+            },
+            "279": {
+                "sumo_id": 98,
+                "omnet_id": 279,
+                "rate": 24.5709333333336
+            },
+            "280": {
+                "sumo_id": 99,
+                "omnet_id": 280,
+                "rate": 24.569066666666398
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "24225793#10",
+        "vehicles": 7,
+        "vehicle_rates": {
+            "5": {
+                "sumo_id": 102,
+                "omnet_id": 5,
+                "rate": 24.5709333333336
+            },
+            "6": {
+                "sumo_id": 103,
+                "omnet_id": 6,
+                "rate": 24.5728
+            },
+            "7": {
+                "sumo_id": 104,
+                "omnet_id": 7,
+                "rate": 24.5616
+            },
+            "8": {
+                "sumo_id": 105,
+                "omnet_id": 8,
+                "rate": 24.5709333333336
+            },
+            "9": {
+                "sumo_id": 106,
+                "omnet_id": 9,
+                "rate": 24.5634666666664
+            },
+            "10": {
+                "sumo_id": 107,
+                "omnet_id": 10,
+                "rate": 24.5616
+            },
+            "11": {
+                "sumo_id": 108,
+                "omnet_id": 11,
+                "rate": 24.5634666666664
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "24225793#3",
+        "vehicles": 7,
+        "vehicle_rates": {
+            "12": {
+                "sumo_id": 109,
+                "omnet_id": 12,
+                "rate": 24.5616
+            },
+            "14": {
+                "sumo_id": 110,
+                "omnet_id": 14,
+                "rate": 24.5728
+            },
+            "15": {
+                "sumo_id": 111,
+                "omnet_id": 15,
+                "rate": 24.5634666666664
+            },
+            "16": {
+                "sumo_id": 112,
+                "omnet_id": 16,
+                "rate": 24.5616
+            },
+            "17": {
+                "sumo_id": 113,
+                "omnet_id": 17,
+                "rate": 24.5709333333336
+            },
+            "18": {
+                "sumo_id": 114,
+                "omnet_id": 18,
+                "rate": 24.5709333333336
+            },
+            "19": {
+                "sumo_id": 115,
+                "omnet_id": 19,
+                "rate": 24.5634666666664
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "-116931097",
+        "vehicles": 3,
+        "vehicle_rates": {
+            "13": {
+                "sumo_id": 11,
+                "omnet_id": 13,
+                "rate": 24.5709333333336
+            },
+            "24": {
+                "sumo_id": 12,
+                "omnet_id": 24,
+                "rate": 24.5634666666664
+            },
+            "35": {
+                "sumo_id": 13,
+                "omnet_id": 35,
+                "rate": 24.5728
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "24225793#5",
+        "vehicles": 1,
+        "vehicle_rates": {
+            "20": {
+                "sumo_id": 116,
+                "omnet_id": 20,
+                "rate": 24.5653333333336
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "24225793#6",
+        "vehicles": 1,
+        "vehicle_rates": {
+            "21": {
+                "sumo_id": 117,
+                "omnet_id": 21,
+                "rate": 24.5616
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "24225793#8",
+        "vehicles": 6,
+        "vehicle_rates": {
+            "22": {
+                "sumo_id": 118,
+                "omnet_id": 22,
+                "rate": 24.5709333333336
+            },
+            "23": {
+                "sumo_id": 119,
+                "omnet_id": 23,
+                "rate": 24.5634666666664
+            },
+            "25": {
+                "sumo_id": 120,
+                "omnet_id": 25,
+                "rate": 24.5728
+            },
+            "26": {
+                "sumo_id": 121,
+                "omnet_id": 26,
+                "rate": 24.5634666666664
+            },
+            "27": {
+                "sumo_id": 122,
+                "omnet_id": 27,
+                "rate": 24.5616
+            },
+            "28": {
+                "sumo_id": 123,
+                "omnet_id": 28,
+                "rate": 24.5709333333336
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "249767952#1",
+        "vehicles": 6,
+        "vehicle_rates": {
+            "29": {
+                "sumo_id": 124,
+                "omnet_id": 29,
+                "rate": 24.5634666666664
+            },
+            "30": {
+                "sumo_id": 125,
+                "omnet_id": 30,
+                "rate": 24.569066666666398
+            },
+            "31": {
+                "sumo_id": 126,
+                "omnet_id": 31,
+                "rate": 24.569066666666398
+            },
+            "32": {
+                "sumo_id": 127,
+                "omnet_id": 32,
+                "rate": 24.569066666666398
+            },
+            "33": {
+                "sumo_id": 128,
+                "omnet_id": 33,
+                "rate": 24.5672
+            },
+            "34": {
+                "sumo_id": 129,
+                "omnet_id": 34,
+                "rate": 24.5709333333336
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "249767952#3",
+        "vehicles": 4,
+        "vehicle_rates": {
+            "36": {
+                "sumo_id": 130,
+                "omnet_id": 36,
+                "rate": 24.5728
+            },
+            "37": {
+                "sumo_id": 131,
+                "omnet_id": 37,
+                "rate": 24.5709333333336
+            },
+            "38": {
+                "sumo_id": 132,
+                "omnet_id": 38,
+                "rate": 24.5634666666664
+            },
+            "39": {
+                "sumo_id": 133,
+                "omnet_id": 39,
+                "rate": 24.5616
+            }
+        },
+        "is_inside_polygon": true,
+        "saturated": false
+    },
+    {
+        "edge": "27173247",
+        "vehicles": 1,
+        "vehicle_rates": {
+            "40": {
+                "sumo_id": 134,
+                "omnet_id": 40,
+                "rate": 24.5634666666664
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "27173716#1",
+        "vehicles": 2,
+        "vehicle_rates": {
+            "41": {
+                "sumo_id": 135,
+                "omnet_id": 41,
+                "rate": 24.5728
+            },
+            "42": {
+                "sumo_id": 136,
+                "omnet_id": 42,
+                "rate": 24.5634666666664
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "27173918#1",
+        "vehicles": 5,
+        "vehicle_rates": {
+            "43": {
+                "sumo_id": 137,
+                "omnet_id": 43,
+                "rate": 24.5672
+            },
+            "44": {
+                "sumo_id": 138,
+                "omnet_id": 44,
+                "rate": 24.5634666666664
+            },
+            "45": {
+                "sumo_id": 139,
+                "omnet_id": 45,
+                "rate": 24.5672
+            },
+            "47": {
+                "sumo_id": 140,
+                "omnet_id": 47,
+                "rate": 24.5672
+            },
+            "48": {
+                "sumo_id": 141,
+                "omnet_id": 48,
+                "rate": 24.5653333333336
+            }
+        },
+        "is_inside_polygon": true,
+        "saturated": false
+    },
+    {
+        "edge": "-1395587389#0",
+        "vehicles": 3,
+        "vehicle_rates": {
+            "46": {
+                "sumo_id": 14,
+                "omnet_id": 46,
+                "rate": 24.5709333333336
+            },
+            "57": {
+                "sumo_id": 15,
+                "omnet_id": 57,
+                "rate": 24.5616
+            },
+            "68": {
+                "sumo_id": 16,
+                "omnet_id": 68,
+                "rate": 24.5616
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "27173918#2",
+        "vehicles": 4,
+        "vehicle_rates": {
+            "49": {
+                "sumo_id": 142,
+                "omnet_id": 49,
+                "rate": 24.5728
+            },
+            "50": {
+                "sumo_id": 143,
+                "omnet_id": 50,
+                "rate": 24.5653333333336
+            },
+            "51": {
+                "sumo_id": 144,
+                "omnet_id": 51,
+                "rate": 24.5653333333336
+            },
+            "52": {
+                "sumo_id": 145,
+                "omnet_id": 52,
+                "rate": 24.5634666666664
+            }
+        },
+        "is_inside_polygon": true,
+        "saturated": false
+    },
+    {
+        "edge": "27926842#2",
+        "vehicles": 2,
+        "vehicle_rates": {
+            "53": {
+                "sumo_id": 146,
+                "omnet_id": 53,
+                "rate": 24.5709333333336
+            },
+            "54": {
+                "sumo_id": 147,
+                "omnet_id": 54,
+                "rate": 24.5709333333336
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "335720387#0",
+        "vehicles": 1,
+        "vehicle_rates": {
+            "55": {
+                "sumo_id": 148,
+                "omnet_id": 55,
+                "rate": 24.5709333333336
+            }
+        },
+        "is_inside_polygon": true,
+        "saturated": false
+    },
+    {
+        "edge": "335720387#1",
+        "vehicles": 1,
+        "vehicle_rates": {
+            "56": {
+                "sumo_id": 149,
+                "omnet_id": 56,
+                "rate": 24.569066666666398
+            }
+        },
+        "is_inside_polygon": true,
+        "saturated": false
+    },
+    {
+        "edge": "421396691#0",
+        "vehicles": 4,
+        "vehicle_rates": {
+            "58": {
+                "sumo_id": 150,
+                "omnet_id": 58,
+                "rate": 24.5634666666664
+            },
+            "59": {
+                "sumo_id": 151,
+                "omnet_id": 59,
+                "rate": 24.569066666666398
+            },
+            "60": {
+                "sumo_id": 152,
+                "omnet_id": 60,
+                "rate": 24.5653333333336
+            },
+            "61": {
+                "sumo_id": 153,
+                "omnet_id": 61,
+                "rate": 24.5634666666664
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "425082671#0",
+        "vehicles": 2,
+        "vehicle_rates": {
+            "62": {
+                "sumo_id": 154,
+                "omnet_id": 62,
+                "rate": 24.5616
+            },
+            "63": {
+                "sumo_id": 155,
+                "omnet_id": 63,
+                "rate": 24.5709333333336
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "4314421#1",
+        "vehicles": 1,
+        "vehicle_rates": {
+            "64": {
+                "sumo_id": 156,
+                "omnet_id": 64,
+                "rate": 24.5709333333336
+            }
+        },
+        "is_inside_polygon": true,
+        "saturated": false
+    },
+    {
+        "edge": "4314421#6",
+        "vehicles": 4,
+        "vehicle_rates": {
+            "65": {
+                "sumo_id": 157,
+                "omnet_id": 65,
+                "rate": 24.5728
+            },
+            "66": {
+                "sumo_id": 158,
+                "omnet_id": 66,
+                "rate": 24.5709333333336
+            },
+            "67": {
+                "sumo_id": 159,
+                "omnet_id": 67,
+                "rate": 24.5634666666664
+            },
+            "69": {
+                "sumo_id": 160,
+                "omnet_id": 69,
+                "rate": 24.5709333333336
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "4314423#1",
+        "vehicles": 4,
+        "vehicle_rates": {
+            "70": {
+                "sumo_id": 161,
+                "omnet_id": 70,
+                "rate": 24.5672
+            },
+            "71": {
+                "sumo_id": 162,
+                "omnet_id": 71,
+                "rate": 24.569066666666398
+            },
+            "72": {
+                "sumo_id": 163,
+                "omnet_id": 72,
+                "rate": 24.5653333333336
+            },
+            "73": {
+                "sumo_id": 164,
+                "omnet_id": 73,
+                "rate": 24.5672
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "4314423#3",
+        "vehicles": 4,
+        "vehicle_rates": {
+            "74": {
+                "sumo_id": 165,
+                "omnet_id": 74,
+                "rate": 24.569066666666398
+            },
+            "75": {
+                "sumo_id": 166,
+                "omnet_id": 75,
+                "rate": 24.5653333333336
+            },
+            "76": {
+                "sumo_id": 167,
+                "omnet_id": 76,
+                "rate": 24.5653333333336
+            },
+            "77": {
+                "sumo_id": 168,
+                "omnet_id": 77,
+                "rate": 24.5634666666664
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "4314423#4",
+        "vehicles": 4,
+        "vehicle_rates": {
+            "78": {
+                "sumo_id": 169,
+                "omnet_id": 78,
+                "rate": 24.5709333333336
+            },
+            "80": {
+                "sumo_id": 170,
+                "omnet_id": 80,
+                "rate": 24.5616
+            },
+            "81": {
+                "sumo_id": 171,
+                "omnet_id": 81,
+                "rate": 24.5728
+            },
+            "82": {
+                "sumo_id": 172,
+                "omnet_id": 82,
+                "rate": 24.5616
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "-16183492",
+        "vehicles": 3,
+        "vehicle_rates": {
+            "79": {
+                "sumo_id": 17,
+                "omnet_id": 79,
+                "rate": 24.5616
+            },
+            "90": {
+                "sumo_id": 18,
+                "omnet_id": 90,
+                "rate": 24.5672
+            },
+            "101": {
+                "sumo_id": 19,
+                "omnet_id": 101,
+                "rate": 24.569066666666398
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "4321669#0",
+        "vehicles": 4,
+        "vehicle_rates": {
+            "83": {
+                "sumo_id": 173,
+                "omnet_id": 83,
+                "rate": 24.5634666666664
+            },
+            "84": {
+                "sumo_id": 174,
+                "omnet_id": 84,
+                "rate": 24.5634666666664
+            },
+            "85": {
+                "sumo_id": 175,
+                "omnet_id": 85,
+                "rate": 24.5709333333336
+            },
+            "86": {
+                "sumo_id": 176,
+                "omnet_id": 86,
+                "rate": 24.5653333333336
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "4321669#1",
+        "vehicles": 5,
+        "vehicle_rates": {
+            "87": {
+                "sumo_id": 177,
+                "omnet_id": 87,
+                "rate": 24.5672
+            },
+            "88": {
+                "sumo_id": 178,
+                "omnet_id": 88,
+                "rate": 24.5728
+            },
+            "89": {
+                "sumo_id": 179,
+                "omnet_id": 89,
+                "rate": 24.5634666666664
+            },
+            "91": {
+                "sumo_id": 180,
+                "omnet_id": 91,
+                "rate": 24.5634666666664
+            },
+            "92": {
+                "sumo_id": 181,
+                "omnet_id": 92,
+                "rate": 24.5672
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "43407393#1",
+        "vehicles": 2,
+        "vehicle_rates": {
+            "93": {
+                "sumo_id": 182,
+                "omnet_id": 93,
+                "rate": 24.5672
+            },
+            "94": {
+                "sumo_id": 183,
+                "omnet_id": 94,
+                "rate": 24.5653333333336
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "43407393#3",
+        "vehicles": 3,
+        "vehicle_rates": {
+            "95": {
+                "sumo_id": 184,
+                "omnet_id": 95,
+                "rate": 24.5616
+            },
+            "96": {
+                "sumo_id": 185,
+                "omnet_id": 96,
+                "rate": 24.5653333333336
+            },
+            "97": {
+                "sumo_id": 186,
+                "omnet_id": 97,
+                "rate": 24.5672
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "43407393#6",
+        "vehicles": 4,
+        "vehicle_rates": {
+            "98": {
+                "sumo_id": 187,
+                "omnet_id": 98,
+                "rate": 24.5634666666664
+            },
+            "99": {
+                "sumo_id": 188,
+                "omnet_id": 99,
+                "rate": 24.5709333333336
+            },
+            "100": {
+                "sumo_id": 189,
+                "omnet_id": 100,
+                "rate": 24.5728
+            },
+            "102": {
+                "sumo_id": 190,
+                "omnet_id": 102,
+                "rate": 24.5709333333336
+            }
+        },
+        "is_inside_polygon": true,
+        "saturated": false
+    },
+    {
+        "edge": "43410334#1",
+        "vehicles": 4,
+        "vehicle_rates": {
+            "103": {
+                "sumo_id": 191,
+                "omnet_id": 103,
+                "rate": 24.5728
+            },
+            "104": {
+                "sumo_id": 192,
+                "omnet_id": 104,
+                "rate": 24.5709333333336
+            },
+            "105": {
+                "sumo_id": 193,
+                "omnet_id": 105,
+                "rate": 24.5634666666664
+            },
+            "106": {
+                "sumo_id": 194,
+                "omnet_id": 106,
+                "rate": 24.5616
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "43410334#3",
+        "vehicles": 3,
+        "vehicle_rates": {
+            "107": {
+                "sumo_id": 195,
+                "omnet_id": 107,
+                "rate": 24.5634666666664
+            },
+            "108": {
+                "sumo_id": 196,
+                "omnet_id": 108,
+                "rate": 24.5616
+            },
+            "109": {
+                "sumo_id": 197,
+                "omnet_id": 109,
+                "rate": 24.5728
+            }
+        },
+        "is_inside_polygon": true,
+        "saturated": false
+    },
+    {
+        "edge": "43410334#5",
+        "vehicles": 3,
+        "vehicle_rates": {
+            "110": {
+                "sumo_id": 198,
+                "omnet_id": 110,
+                "rate": 24.5634666666664
+            },
+            "111": {
+                "sumo_id": 199,
+                "omnet_id": 111,
+                "rate": 24.5616
+            },
+            "114": {
+                "sumo_id": 200,
+                "omnet_id": 114,
+                "rate": 24.5709333333336
+            }
+        },
+        "is_inside_polygon": true,
+        "saturated": false
+    },
+    {
+        "edge": "-11101396#1",
+        "vehicles": 2,
+        "vehicle_rates": {
+            "112": {
+                "sumo_id": 2,
+                "omnet_id": 112,
+                "rate": 24.5672
+            },
+            "204": {
+                "sumo_id": 3,
+                "omnet_id": 204,
+                "rate": 24.5728
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "-24222352#1",
+        "vehicles": 1,
+        "vehicle_rates": {
+            "113": {
+                "sumo_id": 20,
+                "omnet_id": 113,
+                "rate": 24.5653333333336
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "43410334#8",
+        "vehicles": 3,
+        "vehicle_rates": {
+            "115": {
+                "sumo_id": 201,
+                "omnet_id": 115,
+                "rate": 24.5672
+            },
+            "116": {
+                "sumo_id": 202,
+                "omnet_id": 116,
+                "rate": 24.5634666666664
+            },
+            "117": {
+                "sumo_id": 203,
+                "omnet_id": 117,
+                "rate": 24.5672
+            }
+        },
+        "is_inside_polygon": true,
+        "saturated": false
+    },
+    {
+        "edge": "43410335#0",
+        "vehicles": 7,
+        "vehicle_rates": {
+            "118": {
+                "sumo_id": 204,
+                "omnet_id": 118,
+                "rate": 24.5728
+            },
+            "119": {
+                "sumo_id": 205,
+                "omnet_id": 119,
+                "rate": 24.5634666666664
+            },
+            "120": {
+                "sumo_id": 206,
+                "omnet_id": 120,
+                "rate": 24.5709333333336
+            },
+            "121": {
+                "sumo_id": 207,
+                "omnet_id": 121,
+                "rate": 24.5616
+            },
+            "122": {
+                "sumo_id": 208,
+                "omnet_id": 122,
+                "rate": 24.5709333333336
+            },
+            "123": {
+                "sumo_id": 209,
+                "omnet_id": 123,
+                "rate": 24.5616
+            },
+            "125": {
+                "sumo_id": 210,
+                "omnet_id": 125,
+                "rate": 24.5634666666664
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "-421396691#0",
+        "vehicles": 3,
+        "vehicle_rates": {
+            "124": {
+                "sumo_id": 21,
+                "omnet_id": 124,
+                "rate": 24.5653333333336
+            },
+            "135": {
+                "sumo_id": 22,
+                "omnet_id": 135,
+                "rate": 24.5709333333336
+            },
+            "146": {
+                "sumo_id": 23,
+                "omnet_id": 146,
+                "rate": 24.5653333333336
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "43410336#0",
+        "vehicles": 1,
+        "vehicle_rates": {
+            "126": {
+                "sumo_id": 211,
+                "omnet_id": 126,
+                "rate": 24.5653333333336
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "43410336#1",
+        "vehicles": 1,
+        "vehicle_rates": {
+            "127": {
+                "sumo_id": 212,
+                "omnet_id": 127,
+                "rate": 24.5653333333336
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "44336472#1",
+        "vehicles": 7,
+        "vehicle_rates": {
+            "128": {
+                "sumo_id": 213,
+                "omnet_id": 128,
+                "rate": 24.5616
+            },
+            "129": {
+                "sumo_id": 214,
+                "omnet_id": 129,
+                "rate": 24.5653333333336
+            },
+            "130": {
+                "sumo_id": 215,
+                "omnet_id": 130,
+                "rate": 24.5653333333336
+            },
+            "131": {
+                "sumo_id": 216,
+                "omnet_id": 131,
+                "rate": 24.5653333333336
+            },
+            "132": {
+                "sumo_id": 217,
+                "omnet_id": 132,
+                "rate": 24.5672
+            },
+            "133": {
+                "sumo_id": 218,
+                "omnet_id": 133,
+                "rate": 24.5634666666664
+            },
+            "134": {
+                "sumo_id": 219,
+                "omnet_id": 134,
+                "rate": 24.5634666666664
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "44336472#4",
+        "vehicles": 4,
+        "vehicle_rates": {
+            "136": {
+                "sumo_id": 220,
+                "omnet_id": 136,
+                "rate": 24.5653333333336
+            },
+            "137": {
+                "sumo_id": 221,
+                "omnet_id": 137,
+                "rate": 24.5709333333336
+            },
+            "138": {
+                "sumo_id": 222,
+                "omnet_id": 138,
+                "rate": 24.5616
+            },
+            "139": {
+                "sumo_id": 223,
+                "omnet_id": 139,
+                "rate": 24.5616
+            }
+        },
+        "is_inside_polygon": true,
+        "saturated": false
+    },
+    {
+        "edge": "44336473#1",
+        "vehicles": 7,
+        "vehicle_rates": {
+            "140": {
+                "sumo_id": 224,
+                "omnet_id": 140,
+                "rate": 24.5672
+            },
+            "141": {
+                "sumo_id": 225,
+                "omnet_id": 141,
+                "rate": 24.5616
+            },
+            "142": {
+                "sumo_id": 226,
+                "omnet_id": 142,
+                "rate": 24.5616
+            },
+            "143": {
+                "sumo_id": 227,
+                "omnet_id": 143,
+                "rate": 24.5672
+            },
+            "144": {
+                "sumo_id": 228,
+                "omnet_id": 144,
+                "rate": 24.569066666666398
+            },
+            "145": {
+                "sumo_id": 229,
+                "omnet_id": 145,
+                "rate": 24.5709333333336
+            },
+            "147": {
+                "sumo_id": 230,
+                "omnet_id": 147,
+                "rate": 24.5634666666664
+            }
+        },
+        "is_inside_polygon": true,
+        "saturated": false
+    },
+    {
+        "edge": "44336474#1",
+        "vehicles": 4,
+        "vehicle_rates": {
+            "148": {
+                "sumo_id": 231,
+                "omnet_id": 148,
+                "rate": 24.5709333333336
+            },
+            "149": {
+                "sumo_id": 232,
+                "omnet_id": 149,
+                "rate": 24.5653333333336
+            },
+            "150": {
+                "sumo_id": 233,
+                "omnet_id": 150,
+                "rate": 24.5634666666664
+            },
+            "151": {
+                "sumo_id": 234,
+                "omnet_id": 151,
+                "rate": 24.5728
+            }
+        },
+        "is_inside_polygon": true,
+        "saturated": false
+    },
+    {
+        "edge": "44336475#1",
+        "vehicles": 2,
+        "vehicle_rates": {
+            "152": {
+                "sumo_id": 235,
+                "omnet_id": 152,
+                "rate": 24.5709333333336
+            },
+            "153": {
+                "sumo_id": 236,
+                "omnet_id": 153,
+                "rate": 24.5634666666664
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "44737271#0",
+        "vehicles": 5,
+        "vehicle_rates": {
+            "154": {
+                "sumo_id": 237,
+                "omnet_id": 154,
+                "rate": 24.5616
+            },
+            "155": {
+                "sumo_id": 238,
+                "omnet_id": 155,
+                "rate": 24.5672
+            },
+            "156": {
+                "sumo_id": 239,
+                "omnet_id": 156,
+                "rate": 24.5709333333336
+            },
+            "158": {
+                "sumo_id": 240,
+                "omnet_id": 158,
+                "rate": 24.5728
+            },
+            "159": {
+                "sumo_id": 241,
+                "omnet_id": 159,
+                "rate": 24.5616
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "-425082671#0",
+        "vehicles": 4,
+        "vehicle_rates": {
+            "157": {
+                "sumo_id": 24,
+                "omnet_id": 157,
+                "rate": 24.5709333333336
+            },
+            "168": {
+                "sumo_id": 25,
+                "omnet_id": 168,
+                "rate": 24.5653333333336
+            },
+            "179": {
+                "sumo_id": 26,
+                "omnet_id": 179,
+                "rate": 24.569066666666398
+            },
+            "190": {
+                "sumo_id": 27,
+                "omnet_id": 190,
+                "rate": 24.5672
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "44737273#0",
+        "vehicles": 3,
+        "vehicle_rates": {
+            "160": {
+                "sumo_id": 242,
+                "omnet_id": 160,
+                "rate": 24.5616
+            },
+            "161": {
+                "sumo_id": 243,
+                "omnet_id": 161,
+                "rate": 24.5616
+            },
+            "162": {
+                "sumo_id": 244,
+                "omnet_id": 162,
+                "rate": 24.5653333333336
+            }
+        },
+        "is_inside_polygon": true,
+        "saturated": false
+    },
+    {
+        "edge": "4489718#0",
+        "vehicles": 4,
+        "vehicle_rates": {
+            "163": {
+                "sumo_id": 245,
+                "omnet_id": 163,
+                "rate": 24.5653333333336
+            },
+            "164": {
+                "sumo_id": 246,
+                "omnet_id": 164,
+                "rate": 24.5653333333336
+            },
+            "165": {
+                "sumo_id": 247,
+                "omnet_id": 165,
+                "rate": 24.5634666666664
+            },
+            "166": {
+                "sumo_id": 248,
+                "omnet_id": 166,
+                "rate": 24.5653333333336
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "45764844#5",
+        "vehicles": 4,
+        "vehicle_rates": {
+            "167": {
+                "sumo_id": 249,
+                "omnet_id": 167,
+                "rate": 24.5653333333336
+            },
+            "169": {
+                "sumo_id": 250,
+                "omnet_id": 169,
+                "rate": 24.5616
+            },
+            "170": {
+                "sumo_id": 251,
+                "omnet_id": 170,
+                "rate": 24.5634666666664
+            },
+            "171": {
+                "sumo_id": 252,
+                "omnet_id": 171,
+                "rate": 24.5653333333336
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "7642851#1",
+        "vehicles": 3,
+        "vehicle_rates": {
+            "172": {
+                "sumo_id": 253,
+                "omnet_id": 172,
+                "rate": 24.5709333333336
+            },
+            "173": {
+                "sumo_id": 254,
+                "omnet_id": 173,
+                "rate": 24.5616
+            },
+            "174": {
+                "sumo_id": 255,
+                "omnet_id": 174,
+                "rate": 24.5616
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "7649042#1",
+        "vehicles": 2,
+        "vehicle_rates": {
+            "175": {
+                "sumo_id": 256,
+                "omnet_id": 175,
+                "rate": 24.5616
+            },
+            "176": {
+                "sumo_id": 257,
+                "omnet_id": 176,
+                "rate": 24.569066666666398
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "7649042#4",
+        "vehicles": 4,
+        "vehicle_rates": {
+            "177": {
+                "sumo_id": 258,
+                "omnet_id": 177,
+                "rate": 24.5709333333336
+            },
+            "178": {
+                "sumo_id": 259,
+                "omnet_id": 178,
+                "rate": 24.5616
+            },
+            "180": {
+                "sumo_id": 260,
+                "omnet_id": 180,
+                "rate": 24.5709333333336
+            },
+            "181": {
+                "sumo_id": 261,
+                "omnet_id": 181,
+                "rate": 24.5634666666664
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "7971522#17",
+        "vehicles": 3,
+        "vehicle_rates": {
+            "182": {
+                "sumo_id": 262,
+                "omnet_id": 182,
+                "rate": 24.5653333333336
+            },
+            "183": {
+                "sumo_id": 263,
+                "omnet_id": 183,
+                "rate": 24.5672
+            },
+            "184": {
+                "sumo_id": 264,
+                "omnet_id": 184,
+                "rate": 24.569066666666398
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "7971523#0",
+        "vehicles": 4,
+        "vehicle_rates": {
+            "185": {
+                "sumo_id": 265,
+                "omnet_id": 185,
+                "rate": 24.5672
+            },
+            "186": {
+                "sumo_id": 266,
+                "omnet_id": 186,
+                "rate": 24.5672
+            },
+            "187": {
+                "sumo_id": 267,
+                "omnet_id": 187,
+                "rate": 24.5653333333336
+            },
+            "188": {
+                "sumo_id": 268,
+                "omnet_id": 188,
+                "rate": 24.5653333333336
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "8029934#1",
+        "vehicles": 7,
+        "vehicle_rates": {
+            "189": {
+                "sumo_id": 269,
+                "omnet_id": 189,
+                "rate": 24.5709333333336
+            },
+            "191": {
+                "sumo_id": 270,
+                "omnet_id": 191,
+                "rate": 24.5616
+            },
+            "192": {
+                "sumo_id": 271,
+                "omnet_id": 192,
+                "rate": 24.5634666666664
+            },
+            "193": {
+                "sumo_id": 272,
+                "omnet_id": 193,
+                "rate": 24.5728
+            },
+            "194": {
+                "sumo_id": 273,
+                "omnet_id": 194,
+                "rate": 24.5634666666664
+            },
+            "195": {
+                "sumo_id": 274,
+                "omnet_id": 195,
+                "rate": 24.5709333333336
+            },
+            "196": {
+                "sumo_id": 275,
+                "omnet_id": 196,
+                "rate": 24.5709333333336
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "8031768#0",
+        "vehicles": 3,
+        "vehicle_rates": {
+            "197": {
+                "sumo_id": 276,
+                "omnet_id": 197,
+                "rate": 24.5728
+            },
+            "198": {
+                "sumo_id": 277,
+                "omnet_id": 198,
+                "rate": 24.5653333333336
+            },
+            "199": {
+                "sumo_id": 278,
+                "omnet_id": 199,
+                "rate": 24.5634666666664
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "993035587",
+        "vehicles": 2,
+        "vehicle_rates": {
+            "200": {
+                "sumo_id": 279,
+                "omnet_id": 200,
+                "rate": 24.569066666666398
+            },
+            "202": {
+                "sumo_id": 280,
+                "omnet_id": 202,
+                "rate": 24.5728
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "-44737271#0",
+        "vehicles": 2,
+        "vehicle_rates": {
+            "201": {
+                "sumo_id": 28,
+                "omnet_id": 201,
+                "rate": 24.5672
+            },
+            "203": {
+                "sumo_id": 29,
+                "omnet_id": 203,
+                "rate": 24.5634666666664
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "-7971523#0",
+        "vehicles": 3,
+        "vehicle_rates": {
+            "205": {
+                "sumo_id": 30,
+                "omnet_id": 205,
+                "rate": 24.5634666666664
+            },
+            "206": {
+                "sumo_id": 31,
+                "omnet_id": 206,
+                "rate": 24.569066666666398
+            },
+            "207": {
+                "sumo_id": 32,
+                "omnet_id": 207,
+                "rate": 24.5653333333336
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "-8031768#0",
+        "vehicles": 3,
+        "vehicle_rates": {
+            "208": {
+                "sumo_id": 33,
+                "omnet_id": 208,
+                "rate": 24.5653333333336
+            },
+            "209": {
+                "sumo_id": 34,
+                "omnet_id": 209,
+                "rate": 24.5634666666664
+            },
+            "210": {
+                "sumo_id": 35,
+                "omnet_id": 210,
+                "rate": 24.5672
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "107078373#1",
+        "vehicles": 2,
+        "vehicle_rates": {
+            "211": {
+                "sumo_id": 36,
+                "omnet_id": 211,
+                "rate": 24.5709333333336
+            },
+            "212": {
+                "sumo_id": 37,
+                "omnet_id": 212,
+                "rate": 24.5634666666664
+            }
+        },
+        "is_inside_polygon": true,
+        "saturated": false
+    },
+    {
+        "edge": "11101348#1",
+        "vehicles": 3,
+        "vehicle_rates": {
+            "213": {
+                "sumo_id": 38,
+                "omnet_id": 213,
+                "rate": 24.5653333333336
+            },
+            "214": {
+                "sumo_id": 39,
+                "omnet_id": 214,
+                "rate": 24.5653333333336
+            },
+            "216": {
+                "sumo_id": 40,
+                "omnet_id": 216,
+                "rate": 24.5634666666664
+            }
+        },
+        "is_inside_polygon": true,
+        "saturated": false
+    },
+    {
+        "edge": "11101396#1",
+        "vehicles": 2,
+        "vehicle_rates": {
+            "217": {
+                "sumo_id": 41,
+                "omnet_id": 217,
+                "rate": 24.5709333333336
+            },
+            "218": {
+                "sumo_id": 42,
+                "omnet_id": 218,
+                "rate": 24.5634666666664
+            }
+        },
+        "is_inside_polygon": true,
+        "saturated": false
+    },
+    {
+        "edge": "11101396#2",
+        "vehicles": 1,
+        "vehicle_rates": {
+            "219": {
+                "sumo_id": 43,
+                "omnet_id": 219,
+                "rate": 24.5616
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "11101490#1",
+        "vehicles": 4,
+        "vehicle_rates": {
+            "220": {
+                "sumo_id": 44,
+                "omnet_id": 220,
+                "rate": 24.569066666666398
+            },
+            "221": {
+                "sumo_id": 45,
+                "omnet_id": 221,
+                "rate": 24.5634666666664
+            },
+            "222": {
+                "sumo_id": 46,
+                "omnet_id": 222,
+                "rate": 24.5672
+            },
+            "223": {
+                "sumo_id": 47,
+                "omnet_id": 223,
+                "rate": 24.5616
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "11101678#1",
+        "vehicles": 1,
+        "vehicle_rates": {
+            "224": {
+                "sumo_id": 48,
+                "omnet_id": 224,
+                "rate": 24.5709333333336
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "11101678#2",
+        "vehicles": 4,
+        "vehicle_rates": {
+            "225": {
+                "sumo_id": 49,
+                "omnet_id": 225,
+                "rate": 24.5709333333336
+            },
+            "227": {
+                "sumo_id": 50,
+                "omnet_id": 227,
+                "rate": 24.5728
+            },
+            "228": {
+                "sumo_id": 51,
+                "omnet_id": 228,
+                "rate": 24.5634666666664
+            },
+            "229": {
+                "sumo_id": 52,
+                "omnet_id": 229,
+                "rate": 24.5616
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "11101678#5",
+        "vehicles": 3,
+        "vehicle_rates": {
+            "230": {
+                "sumo_id": 53,
+                "omnet_id": 230,
+                "rate": 24.5616
+            },
+            "231": {
+                "sumo_id": 54,
+                "omnet_id": 231,
+                "rate": 24.5616
+            },
+            "232": {
+                "sumo_id": 55,
+                "omnet_id": 232,
+                "rate": 24.5634666666664
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "11101896#1",
+        "vehicles": 7,
+        "vehicle_rates": {
+            "233": {
+                "sumo_id": 56,
+                "omnet_id": 233,
+                "rate": 24.5653333333336
+            },
+            "234": {
+                "sumo_id": 57,
+                "omnet_id": 234,
+                "rate": 24.5672
+            },
+            "235": {
+                "sumo_id": 58,
+                "omnet_id": 235,
+                "rate": 24.5653333333336
+            },
+            "236": {
+                "sumo_id": 59,
+                "omnet_id": 236,
+                "rate": 24.5672
+            },
+            "238": {
+                "sumo_id": 60,
+                "omnet_id": 238,
+                "rate": 24.5672
+            },
+            "239": {
+                "sumo_id": 61,
+                "omnet_id": 239,
+                "rate": 24.569066666666398
+            },
+            "240": {
+                "sumo_id": 62,
+                "omnet_id": 240,
+                "rate": 24.569066666666398
+            }
+        },
+        "is_inside_polygon": true,
+        "saturated": false
+    },
+    {
+        "edge": "116931097",
+        "vehicles": 7,
+        "vehicle_rates": {
+            "241": {
+                "sumo_id": 63,
+                "omnet_id": 241,
+                "rate": 24.5672
+            },
+            "242": {
+                "sumo_id": 64,
+                "omnet_id": 242,
+                "rate": 24.5672
+            },
+            "243": {
+                "sumo_id": 65,
+                "omnet_id": 243,
+                "rate": 24.5672
+            },
+            "244": {
+                "sumo_id": 66,
+                "omnet_id": 244,
+                "rate": 24.5653333333336
+            },
+            "245": {
+                "sumo_id": 67,
+                "omnet_id": 245,
+                "rate": 24.569066666666398
+            },
+            "246": {
+                "sumo_id": 68,
+                "omnet_id": 246,
+                "rate": 24.5672
+            },
+            "247": {
+                "sumo_id": 69,
+                "omnet_id": 247,
+                "rate": 24.5634666666664
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "1395587389#0",
+        "vehicles": 4,
+        "vehicle_rates": {
+            "249": {
+                "sumo_id": 70,
+                "omnet_id": 249,
+                "rate": 24.5728
+            },
+            "250": {
+                "sumo_id": 71,
+                "omnet_id": 250,
+                "rate": 24.5634666666664
+            },
+            "251": {
+                "sumo_id": 72,
+                "omnet_id": 251,
+                "rate": 24.5709333333336
+            },
+            "252": {
+                "sumo_id": 73,
+                "omnet_id": 252,
+                "rate": 24.5616
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "14459174#0",
+        "vehicles": 1,
+        "vehicle_rates": {
+            "253": {
+                "sumo_id": 74,
+                "omnet_id": 253,
+                "rate": 24.5709333333336
+            }
+        },
+        "is_inside_polygon": true,
+        "saturated": false
+    },
+    {
+        "edge": "14459174#1",
+        "vehicles": 1,
+        "vehicle_rates": {
+            "254": {
+                "sumo_id": 75,
+                "omnet_id": 254,
+                "rate": 24.5709333333336
+            }
+        },
+        "is_inside_polygon": true,
+        "saturated": false
+    },
+    {
+        "edge": "14459174#2",
+        "vehicles": 1,
+        "vehicle_rates": {
+            "255": {
+                "sumo_id": 76,
+                "omnet_id": 255,
+                "rate": 24.5634666666664
+            }
+        },
+        "is_inside_polygon": true,
+        "saturated": false
+    },
+    {
+        "edge": "14459386#0",
+        "vehicles": 3,
+        "vehicle_rates": {
+            "256": {
+                "sumo_id": 77,
+                "omnet_id": 256,
+                "rate": 24.5634666666664
+            },
+            "257": {
+                "sumo_id": 78,
+                "omnet_id": 257,
+                "rate": 24.5616
+            },
+            "258": {
+                "sumo_id": 79,
+                "omnet_id": 258,
+                "rate": 24.5653333333336
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "14459753",
+        "vehicles": 1,
+        "vehicle_rates": {
+            "260": {
+                "sumo_id": 80,
+                "omnet_id": 260,
+                "rate": 24.5616
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "14460667#0",
+        "vehicles": 7,
+        "vehicle_rates": {
+            "261": {
+                "sumo_id": 81,
+                "omnet_id": 261,
+                "rate": 24.569066666666398
+            },
+            "262": {
+                "sumo_id": 82,
+                "omnet_id": 262,
+                "rate": 24.5672
+            },
+            "263": {
+                "sumo_id": 83,
+                "omnet_id": 263,
+                "rate": 24.5672
+            },
+            "264": {
+                "sumo_id": 84,
+                "omnet_id": 264,
+                "rate": 24.5616
+            },
+            "265": {
+                "sumo_id": 85,
+                "omnet_id": 265,
+                "rate": 24.5653333333336
+            },
+            "266": {
+                "sumo_id": 86,
+                "omnet_id": 266,
+                "rate": 24.5653333333336
+            },
+            "267": {
+                "sumo_id": 87,
+                "omnet_id": 267,
+                "rate": 24.5653333333336
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "14460667#3",
+        "vehicles": 1,
+        "vehicle_rates": {
+            "268": {
+                "sumo_id": 88,
+                "omnet_id": 268,
+                "rate": 24.5616
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "161793151#0",
+        "vehicles": 1,
+        "vehicle_rates": {
+            "269": {
+                "sumo_id": 89,
+                "omnet_id": 269,
+                "rate": 24.5634666666664
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "161793151#1",
+        "vehicles": 3,
+        "vehicle_rates": {
+            "271": {
+                "sumo_id": 90,
+                "omnet_id": 271,
+                "rate": 24.5709333333336
+            },
+            "272": {
+                "sumo_id": 91,
+                "omnet_id": 272,
+                "rate": 24.5616
+            },
+            "273": {
+                "sumo_id": 92,
+                "omnet_id": 273,
+                "rate": 24.5709333333336
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "161793152#1",
+        "vehicles": 1,
+        "vehicle_rates": {
+            "274": {
+                "sumo_id": 93,
+                "omnet_id": 274,
+                "rate": 24.5672
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    },
+    {
+        "edge": "16183492",
+        "vehicles": 3,
+        "vehicle_rates": {
+            "275": {
+                "sumo_id": 94,
+                "omnet_id": 275,
+                "rate": 24.5616
+            },
+            "276": {
+                "sumo_id": 95,
+                "omnet_id": 276,
+                "rate": 24.5653333333336
+            },
+            "277": {
+                "sumo_id": 96,
+                "omnet_id": 277,
+                "rate": 24.5709333333336
+            }
+        },
+        "is_inside_polygon": false,
+        "saturated": false
+    }
+]

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Q6" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-3.69925, 40.43780],
+            [-3.69575, 40.43780],
+            [-3.69575, 40.43415],
+            [-3.69925, 40.43415],
+            [-3.69925, 40.43780]
+          ]
+        ]
+      }
+    }
+  ]
+}

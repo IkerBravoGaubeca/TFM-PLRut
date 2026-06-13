@@ -1,0 +1,128 @@
+[
+  {
+    "down_left": {
+      "paths": {
+        "1":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/down_left/partials1.json",
+        "2":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/down_left/partials2.json",
+        "3":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/down_left/partials3.json",
+        "4":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/down_left/partials4.json",
+        "5":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/down_left/partials5.json",
+        "6":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/down_left/partials6.json",
+        "7":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/down_left/partials7.json",
+        "8":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/down_left/partials8.json",
+        "9":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/down_left/partials9.json",
+        "10": "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/down_left/partials10.json",
+        "11": "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/down_left/partials11.json",
+        "12": "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/down_left/partials12.json",
+        "13": "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/down_left/partials13.json",
+        "14": "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/down_left/partials14.json",
+        "15": "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/down_left/partials15.json"
+      }
+    }
+  },
+  {
+    "down_center": {
+      "paths": {
+        "1":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/down_center/partials1.json",
+        "2":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/down_center/partials2.json",
+        "3":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/down_center/partials3.json",
+        "4":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/down_center/partials4.json",
+        "5":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/down_center/partials5.json",
+        "6":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/down_center/partials6.json",
+        "7":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/down_center/partials7.json",
+        "8":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/down_center/partials8.json",
+        "9":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/down_center/partials9.json",
+        "10": "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/down_center/partials10.json",
+        "11": "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/down_center/partials11.json",
+        "12": "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/down_center/partials12.json",
+        "13": "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/down_center/partials13.json",
+        "14": "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/down_center/partials14.json",
+        "15": "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/down_center/partials15.json"
+      }
+    }
+  },
+  {
+    "down_right": {
+      "paths": {
+        "1":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/down_right/partials1.json",
+        "2":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/down_right/partials2.json",
+        "3":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/down_right/partials3.json",
+        "4":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/down_right/partials4.json",
+        "5":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/down_right/partials5.json",
+        "6":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/down_right/partials6.json",
+        "7":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/down_right/partials7.json",
+        "8":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/down_right/partials8.json",
+        "9":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/down_right/partials9.json",
+        "10": "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/down_right/partials10.json",
+        "11": "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/down_right/partials11.json",
+        "12": "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/down_right/partials12.json",
+        "13": "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/down_right/partials13.json",
+        "14": "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/down_right/partials14.json",
+        "15": "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/down_right/partials15.json"
+      }
+    }
+  },
+  {
+    "up_left": {
+      "paths": {
+        "1":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/up_left/partials1.json",
+        "2":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/up_left/partials2.json",
+        "3":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/up_left/partials3.json",
+        "4":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/up_left/partials4.json",
+        "5":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/up_left/partials5.json",
+        "6":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/up_left/partials6.json",
+        "7":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/up_left/partials7.json",
+        "8":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/up_left/partials8.json",
+        "9":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/up_left/partials9.json",
+        "10": "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/up_left/partials10.json",
+        "11": "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/up_left/partials11.json",
+        "12": "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/up_left/partials12.json",
+        "13": "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/up_left/partials13.json",
+        "14": "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/up_left/partials14.json",
+        "15": "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/up_left/partials15.json"
+      }
+    }
+  },
+  {
+    "up_center": {
+      "paths": {
+        "1":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/up_center/partials1.json",
+        "2":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/up_center/partials2.json",
+        "3":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/up_center/partials3.json",
+        "4":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/up_center/partials4.json",
+        "5":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/up_center/partials5.json",
+        "6":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/up_center/partials6.json",
+        "7":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/up_center/partials7.json",
+        "8":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/up_center/partials8.json",
+        "9":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/up_center/partials9.json",
+        "10": "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/up_center/partials10.json",
+        "11": "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/up_center/partials11.json",
+        "12": "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/up_center/partials12.json",
+        "13": "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/up_center/partials13.json",
+        "14": "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/up_center/partials14.json",
+        "15": "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/up_center/partials15.json"
+      }
+    }
+  },
+  {
+    "up_right": {
+      "paths": {
+        "1":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/up_right/partials1.json",
+        "2":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/up_right/partials2.json",
+        "3":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/up_right/partials3.json",
+        "4":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/up_right/partials4.json",
+        "5":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/up_right/partials5.json",
+        "6":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/up_right/partials6.json",
+        "7":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/up_right/partials7.json",
+        "8":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/up_right/partials8.json",
+        "9":  "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/up_right/partials9.json",
+        "10": "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/up_right/partials10.json",
+        "11": "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/up_right/partials11.json",
+        "12": "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/up_right/partials12.json",
+        "13": "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/up_right/partials13.json",
+        "14": "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/up_right/partials14.json",
+        "15": "/home/ikerb/IKER/simu5GIker-workspace/simu5g/simulations/NR/simple_Iker_FINAL/cuadrantes_madrid/up_right/partials15.json"
+      }
+    }
+  }
+]

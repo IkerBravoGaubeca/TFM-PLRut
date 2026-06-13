@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Q2" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-3.70275, 40.44145],
+            [-3.69925, 40.44145],
+            [-3.69925, 40.43780],
+            [-3.70275, 40.43780],
+            [-3.70275, 40.44145]
+          ]
+        ]
+      }
+    }
+  ]
+}

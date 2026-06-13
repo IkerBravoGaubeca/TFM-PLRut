@@ -1,0 +1,8 @@
+<launch>
+  <copy file="map.net.xml"/>
+  <copy file="test.rou2.xml"/>
+  <copy file="map.poly.xml"/>
+  <copy file="edgedata.add.xml" type="output"/>
+  <copy file="map.sumocfg" type="config"/>
+  <copy file="gui-settings.xml"/>  
+</launch>

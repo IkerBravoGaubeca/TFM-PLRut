@@ -1,0 +1,529 @@
++R #0  0s  Highway.server  192.168.0.1  127.0.0.0/8  <unspec>  lo0
++R #0  0s  Highway.server  192.168.0.1  192.168.0.0/24  <unspec>  ppp0
++R #0  0s  Highway.router  192.168.1.1  127.0.0.0/8  <unspec>  lo0
++R #0  0s  Highway.router  192.168.1.1  192.168.0.0/24  <unspec>  ppp0
++R #0  0s  Highway.router  192.168.1.1  192.168.1.0/24  <unspec>  ppp1
++R #0  0s  Highway.upf  192.168.64.1  127.0.0.0/8  <unspec>  lo0
++R #0  0s  Highway.upf  192.168.64.1  192.168.2.0/24  <unspec>  ppp0
++R #0  0s  Highway.upf  192.168.64.1  192.168.3.0/24  <unspec>  ppp1
++R #0  0s  Highway.upf  192.168.64.1  192.168.4.0/24  <unspec>  ppp2
++R #0  0s  Highway.upf  192.168.64.1  192.168.5.0/24  <unspec>  ppp3
++R #0  0s  Highway.upf  192.168.64.1  192.168.6.0/24  <unspec>  ppp4
++R #0  0s  Highway.upf  192.168.64.1  192.168.7.0/24  <unspec>  ppp5
++R #0  0s  Highway.upf  192.168.64.1  192.168.8.0/24  <unspec>  ppp6
++R #0  0s  Highway.upf  192.168.64.1  192.168.9.0/24  <unspec>  ppp7
++R #0  0s  Highway.upf  192.168.64.1  192.168.10.0/24  <unspec>  ppp8
++R #0  0s  Highway.upf  192.168.64.1  192.168.11.0/24  <unspec>  ppp9
++R #0  0s  Highway.upf  192.168.64.1  192.168.12.0/24  <unspec>  ppp10
++R #0  0s  Highway.upf  192.168.64.1  192.168.13.0/24  <unspec>  ppp11
++R #0  0s  Highway.upf  192.168.64.1  192.168.14.0/24  <unspec>  ppp12
++R #0  0s  Highway.upf  192.168.64.1  192.168.15.0/24  <unspec>  ppp13
++R #0  0s  Highway.upf  192.168.64.1  192.168.16.0/24  <unspec>  ppp14
++R #0  0s  Highway.upf  192.168.64.1  192.168.17.0/24  <unspec>  ppp15
++R #0  0s  Highway.upf  192.168.64.1  192.168.18.0/24  <unspec>  ppp16
++R #0  0s  Highway.upf  192.168.64.1  192.168.19.0/24  <unspec>  ppp17
++R #0  0s  Highway.upf  192.168.64.1  192.168.20.0/24  <unspec>  ppp18
++R #0  0s  Highway.upf  192.168.64.1  192.168.21.0/24  <unspec>  ppp19
++R #0  0s  Highway.upf  192.168.64.1  192.168.22.0/24  <unspec>  ppp20
++R #0  0s  Highway.upf  192.168.64.1  192.168.23.0/24  <unspec>  ppp21
++R #0  0s  Highway.upf  192.168.64.1  192.168.24.0/24  <unspec>  ppp22
++R #0  0s  Highway.upf  192.168.64.1  192.168.25.0/24  <unspec>  ppp23
++R #0  0s  Highway.upf  192.168.64.1  192.168.26.0/24  <unspec>  ppp24
++R #0  0s  Highway.upf  192.168.64.1  192.168.27.0/24  <unspec>  ppp25
++R #0  0s  Highway.upf  192.168.64.1  192.168.28.0/24  <unspec>  ppp26
++R #0  0s  Highway.upf  192.168.64.1  192.168.29.0/24  <unspec>  ppp27
++R #0  0s  Highway.upf  192.168.64.1  192.168.30.0/24  <unspec>  ppp28
++R #0  0s  Highway.upf  192.168.64.1  192.168.31.0/24  <unspec>  ppp29
++R #0  0s  Highway.upf  192.168.64.1  192.168.32.0/24  <unspec>  ppp30
++R #0  0s  Highway.upf  192.168.64.1  192.168.33.0/24  <unspec>  ppp31
++R #0  0s  Highway.upf  192.168.64.1  192.168.34.0/24  <unspec>  ppp32
++R #0  0s  Highway.upf  192.168.64.1  192.168.35.0/24  <unspec>  ppp33
++R #0  0s  Highway.upf  192.168.64.1  192.168.36.0/24  <unspec>  ppp34
++R #0  0s  Highway.upf  192.168.64.1  192.168.37.0/24  <unspec>  ppp35
++R #0  0s  Highway.upf  192.168.64.1  192.168.38.0/24  <unspec>  ppp36
++R #0  0s  Highway.upf  192.168.64.1  192.168.39.0/24  <unspec>  ppp37
++R #0  0s  Highway.upf  192.168.64.1  192.168.40.0/24  <unspec>  ppp38
++R #0  0s  Highway.upf  192.168.64.1  192.168.41.0/24  <unspec>  ppp39
++R #0  0s  Highway.upf  192.168.64.1  192.168.42.0/24  <unspec>  ppp40
++R #0  0s  Highway.upf  192.168.64.1  192.168.43.0/24  <unspec>  ppp41
++R #0  0s  Highway.upf  192.168.64.1  192.168.44.0/24  <unspec>  ppp42
++R #0  0s  Highway.upf  192.168.64.1  192.168.45.0/24  <unspec>  ppp43
++R #0  0s  Highway.upf  192.168.64.1  192.168.46.0/24  <unspec>  ppp44
++R #0  0s  Highway.upf  192.168.64.1  192.168.47.0/24  <unspec>  ppp45
++R #0  0s  Highway.upf  192.168.64.1  192.168.48.0/24  <unspec>  ppp46
++R #0  0s  Highway.upf  192.168.64.1  192.168.49.0/24  <unspec>  ppp47
++R #0  0s  Highway.upf  192.168.64.1  192.168.50.0/24  <unspec>  ppp48
++R #0  0s  Highway.upf  192.168.64.1  192.168.51.0/24  <unspec>  ppp49
++R #0  0s  Highway.upf  192.168.64.1  192.168.52.0/24  <unspec>  ppp50
++R #0  0s  Highway.upf  192.168.64.1  192.168.53.0/24  <unspec>  ppp51
++R #0  0s  Highway.upf  192.168.64.1  192.168.54.0/24  <unspec>  ppp52
++R #0  0s  Highway.upf  192.168.64.1  192.168.55.0/24  <unspec>  ppp53
++R #0  0s  Highway.upf  192.168.64.1  192.168.56.0/24  <unspec>  ppp54
++R #0  0s  Highway.upf  192.168.64.1  192.168.57.0/24  <unspec>  ppp55
++R #0  0s  Highway.upf  192.168.64.1  192.168.58.0/24  <unspec>  ppp56
++R #0  0s  Highway.upf  192.168.64.1  192.168.59.0/24  <unspec>  ppp57
++R #0  0s  Highway.upf  192.168.64.1  192.168.60.0/24  <unspec>  ppp58
++R #0  0s  Highway.upf  192.168.64.1  192.168.61.0/24  <unspec>  ppp59
++R #0  0s  Highway.upf  192.168.64.1  192.168.62.0/24  <unspec>  ppp60
++R #0  0s  Highway.upf  192.168.64.1  192.168.63.0/24  <unspec>  ppp61
++R #0  0s  Highway.upf  192.168.64.1  192.168.64.0/24  <unspec>  ppp62
++R #0  0s  Highway.upf  192.168.64.1  192.168.1.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB1  192.168.65.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB1  192.168.65.1  192.168.2.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB1  192.168.65.1  192.168.65.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB2  192.168.66.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB2  192.168.66.1  192.168.3.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB2  192.168.66.1  192.168.66.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB3  192.168.67.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB3  192.168.67.1  192.168.4.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB3  192.168.67.1  192.168.67.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB4  192.168.68.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB4  192.168.68.1  192.168.5.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB4  192.168.68.1  192.168.68.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB5  192.168.69.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB5  192.168.69.1  192.168.6.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB5  192.168.69.1  192.168.69.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB6  192.168.70.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB6  192.168.70.1  192.168.7.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB6  192.168.70.1  192.168.70.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB7  192.168.71.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB7  192.168.71.1  192.168.8.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB7  192.168.71.1  192.168.71.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB8  192.168.72.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB8  192.168.72.1  192.168.9.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB8  192.168.72.1  192.168.72.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB9  192.168.73.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB9  192.168.73.1  192.168.10.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB9  192.168.73.1  192.168.73.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB10  192.168.74.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB10  192.168.74.1  192.168.11.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB10  192.168.74.1  192.168.74.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB11  192.168.75.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB11  192.168.75.1  192.168.12.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB11  192.168.75.1  192.168.75.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB12  192.168.76.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB12  192.168.76.1  192.168.13.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB12  192.168.76.1  192.168.76.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB13  192.168.77.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB13  192.168.77.1  192.168.14.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB13  192.168.77.1  192.168.77.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB14  192.168.78.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB14  192.168.78.1  192.168.15.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB14  192.168.78.1  192.168.78.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB15  192.168.79.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB15  192.168.79.1  192.168.16.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB15  192.168.79.1  192.168.79.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB16  192.168.80.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB16  192.168.80.1  192.168.17.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB16  192.168.80.1  192.168.80.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB17  192.168.81.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB17  192.168.81.1  192.168.18.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB17  192.168.81.1  192.168.81.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB18  192.168.82.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB18  192.168.82.1  192.168.19.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB18  192.168.82.1  192.168.82.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB19  192.168.83.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB19  192.168.83.1  192.168.20.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB19  192.168.83.1  192.168.83.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB20  192.168.84.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB20  192.168.84.1  192.168.21.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB20  192.168.84.1  192.168.84.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB21  192.168.85.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB21  192.168.85.1  192.168.22.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB21  192.168.85.1  192.168.85.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB22  192.168.86.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB22  192.168.86.1  192.168.23.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB22  192.168.86.1  192.168.86.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB23  192.168.87.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB23  192.168.87.1  192.168.24.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB23  192.168.87.1  192.168.87.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB24  192.168.88.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB24  192.168.88.1  192.168.25.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB24  192.168.88.1  192.168.88.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB25  192.168.89.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB25  192.168.89.1  192.168.26.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB25  192.168.89.1  192.168.89.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB26  192.168.90.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB26  192.168.90.1  192.168.27.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB26  192.168.90.1  192.168.90.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB27  192.168.91.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB27  192.168.91.1  192.168.28.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB27  192.168.91.1  192.168.91.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB28  192.168.92.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB28  192.168.92.1  192.168.29.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB28  192.168.92.1  192.168.92.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB29  192.168.93.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB29  192.168.93.1  192.168.30.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB29  192.168.93.1  192.168.93.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB30  192.168.94.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB30  192.168.94.1  192.168.31.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB30  192.168.94.1  192.168.94.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB31  192.168.95.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB31  192.168.95.1  192.168.32.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB31  192.168.95.1  192.168.95.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB32  192.168.96.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB32  192.168.96.1  192.168.33.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB32  192.168.96.1  192.168.96.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB33  192.168.97.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB33  192.168.97.1  192.168.34.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB33  192.168.97.1  192.168.97.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB34  192.168.98.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB34  192.168.98.1  192.168.35.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB34  192.168.98.1  192.168.98.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB35  192.168.99.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB35  192.168.99.1  192.168.36.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB35  192.168.99.1  192.168.99.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB36  192.168.100.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB36  192.168.100.1  192.168.37.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB36  192.168.100.1  192.168.100.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB37  192.168.101.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB37  192.168.101.1  192.168.38.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB37  192.168.101.1  192.168.101.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB38  192.168.102.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB38  192.168.102.1  192.168.39.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB38  192.168.102.1  192.168.102.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB39  192.168.103.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB39  192.168.103.1  192.168.40.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB39  192.168.103.1  192.168.103.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB40  192.168.104.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB40  192.168.104.1  192.168.41.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB40  192.168.104.1  192.168.104.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB41  192.168.105.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB41  192.168.105.1  192.168.42.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB41  192.168.105.1  192.168.105.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB42  192.168.106.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB42  192.168.106.1  192.168.43.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB42  192.168.106.1  192.168.106.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB43  192.168.107.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB43  192.168.107.1  192.168.44.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB43  192.168.107.1  192.168.107.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB44  192.168.108.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB44  192.168.108.1  192.168.45.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB44  192.168.108.1  192.168.108.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB45  192.168.109.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB45  192.168.109.1  192.168.46.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB45  192.168.109.1  192.168.109.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB46  192.168.110.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB46  192.168.110.1  192.168.47.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB46  192.168.110.1  192.168.110.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB47  192.168.111.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB47  192.168.111.1  192.168.48.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB47  192.168.111.1  192.168.111.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB48  192.168.112.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB48  192.168.112.1  192.168.49.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB48  192.168.112.1  192.168.112.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB49  192.168.113.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB49  192.168.113.1  192.168.50.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB49  192.168.113.1  192.168.113.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB50  192.168.114.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB50  192.168.114.1  192.168.51.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB50  192.168.114.1  192.168.114.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB51  192.168.115.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB51  192.168.115.1  192.168.52.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB51  192.168.115.1  192.168.115.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB52  192.168.116.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB52  192.168.116.1  192.168.53.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB52  192.168.116.1  192.168.116.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB53  192.168.117.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB53  192.168.117.1  192.168.54.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB53  192.168.117.1  192.168.117.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB54  192.168.118.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB54  192.168.118.1  192.168.55.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB54  192.168.118.1  192.168.118.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB55  192.168.119.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB55  192.168.119.1  192.168.56.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB55  192.168.119.1  192.168.119.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB56  192.168.120.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB56  192.168.120.1  192.168.57.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB56  192.168.120.1  192.168.120.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB57  192.168.121.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB57  192.168.121.1  192.168.58.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB57  192.168.121.1  192.168.121.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB58  192.168.122.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB58  192.168.122.1  192.168.59.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB58  192.168.122.1  192.168.122.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB59  192.168.123.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB59  192.168.123.1  192.168.60.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB59  192.168.123.1  192.168.123.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB60  192.168.124.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB60  192.168.124.1  192.168.61.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB60  192.168.124.1  192.168.124.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB61  192.168.125.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB61  192.168.125.1  192.168.62.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB61  192.168.125.1  192.168.125.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB62  192.168.126.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB62  192.168.126.1  192.168.63.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB62  192.168.126.1  192.168.126.0/24  <unspec>  pppMEHostIf
++R #0  0s  Highway.gNodeB63  192.168.127.1  10.0.0.0/8  <unspec>  cellular
++R #0  0s  Highway.gNodeB63  192.168.127.1  192.168.64.0/24  <unspec>  pppIf
++R #0  0s  Highway.gNodeB63  192.168.127.1  192.168.127.0/24  <unspec>  pppMEHostIf
+*I  #50530  0.1s  Highway.car[0]  lo0 <unspec>
+*I  #50530  0.1s  Highway.car[0]  cellularNic <unspec>
++I  #50530  0.1s  Highway.car[0]  lo0 <unspec>
+*I  #50530  0.1s  Highway.car[0]  lo0 <unspec>
+*I  #50530  0.1s  Highway.car[0]  lo0 <unspec>
+*I  #50530  0.1s  Highway.car[0]  cellularNic <unspec>
+*I  #50530  0.1s  Highway.car[0]  cellularNic <unspec>
+*I  #50530  0.1s  Highway.car[0]  cellularNic <unspec>
+*I  #50530  0.1s  Highway.car[0]  cellularNic <unspec>
++I  #50530  0.1s  Highway.car[0]  cellularNic <unspec>
+*I  #50530  0.1s  Highway.car[0]  cellular <unspec>
+*I  #50530  0.1s  Highway.car[0]  cellular <unspec>
+*I  #50530  0.1s  Highway.car[0]  cellular <unspec>
+*I  #50530  0.1s  Highway.car[0]  cellular <unspec>
+*I  #50530  0.1s  Highway.car[0]  cellular <unspec>
+*I  #50530  0.1s  Highway.car[0]  lo0 <unspec>
+*I  #50530  0.1s  Highway.car[0]  cellular <unspec>
+*I  #50530  0.1s  Highway.car[0]  cellular 10.0.21.5
++R #50530  0.1s  Highway.car[0]  <unspec>  10.0.0.0/8  <unspec>  cellular
+*I  #50530  0.1s  Highway.car[0]  cellular 10.0.21.5
+*I  #50530  0.1s  Highway.car[0]  cellular 10.0.21.5
+-R #50530  0.1s  Highway.car[0]  <unspec>  10.0.0.0/8  <unspec>  cellular
++R #50530  0.1s  Highway.car[0]  <unspec>  10.0.0.0/8  <unspec>  cellular
+*I  #50530  0.1s  Highway.car[0]  cellular 10.0.21.5
+-R #50530  0.1s  Highway.car[0]  <unspec>  10.0.0.0/8  <unspec>  cellular
++R #50530  0.1s  Highway.car[0]  <unspec>  10.0.0.0/8  <unspec>  cellular
+*I  #50530  0.1s  Highway.car[0]  cellular 10.0.21.5
+-R #50530  0.1s  Highway.car[0]  <unspec>  10.0.0.0/8  <unspec>  cellular
++R #50530  0.1s  Highway.car[0]  <unspec>  10.0.0.0/8  <unspec>  cellular
+*I  #50530  0.1s  Highway.car[0]  lo0 127.0.0.1
+-R #50530  0.1s  Highway.car[0]  <unspec>  10.0.0.0/8  <unspec>  cellular
++R #50530  0.1s  Highway.car[0]  <unspec>  127.0.0.0/8  <unspec>  lo0
++R #50530  0.1s  Highway.car[0]  <unspec>  10.0.0.0/8  <unspec>  cellular
+*I  #50530  0.1s  Highway.car[0]  lo0 127.0.0.1
+-R #50530  0.1s  Highway.car[0]  <unspec>  10.0.0.0/8  <unspec>  cellular
+-R #50530  0.1s  Highway.car[0]  <unspec>  127.0.0.0/8  <unspec>  lo0
++R #50530  0.1s  Highway.car[0]  <unspec>  127.0.0.0/8  <unspec>  lo0
++R #50530  0.1s  Highway.car[0]  <unspec>  10.0.0.0/8  <unspec>  cellular
+*I  #50530  0.1s  Highway.car[0]  lo0 127.0.0.1
++R #50530  0.1s  Highway.car[0]  10.0.21.5  <unspec>/0  <unspec>  cellular
+*I  #50530  0.1s  Highway.car[0]  cellular 10.0.21.5
+-R #50530  0.1s  Highway.car[0]  10.0.21.5  10.0.0.0/8  <unspec>  cellular
+-R #50530  0.1s  Highway.car[0]  10.0.21.5  127.0.0.0/8  <unspec>  lo0
++R #50530  0.1s  Highway.car[0]  10.0.21.5  127.0.0.0/8  <unspec>  lo0
++R #50530  0.1s  Highway.car[0]  10.0.21.5  10.0.0.0/8  <unspec>  cellular
+*I  #5154839  10.1s  Highway.car[1]  lo0 <unspec>
+*I  #5154839  10.1s  Highway.car[1]  cellularNic <unspec>
++I  #5154839  10.1s  Highway.car[1]  lo0 <unspec>
+*I  #5154839  10.1s  Highway.car[1]  lo0 <unspec>
+*I  #5154839  10.1s  Highway.car[1]  lo0 <unspec>
+*I  #5154839  10.1s  Highway.car[1]  cellularNic <unspec>
+*I  #5154839  10.1s  Highway.car[1]  cellularNic <unspec>
+*I  #5154839  10.1s  Highway.car[1]  cellularNic <unspec>
+*I  #5154839  10.1s  Highway.car[1]  cellularNic <unspec>
++I  #5154839  10.1s  Highway.car[1]  cellularNic <unspec>
+*I  #5154839  10.1s  Highway.car[1]  cellular <unspec>
+*I  #5154839  10.1s  Highway.car[1]  cellular <unspec>
+*I  #5154839  10.1s  Highway.car[1]  cellular <unspec>
+*I  #5154839  10.1s  Highway.car[1]  cellular <unspec>
+*I  #5154839  10.1s  Highway.car[1]  cellular <unspec>
+*I  #5154839  10.1s  Highway.car[1]  lo0 <unspec>
+*I  #5154839  10.1s  Highway.car[1]  cellular <unspec>
+*I  #5154839  10.1s  Highway.car[1]  cellular 10.0.21.61
++R #5154839  10.1s  Highway.car[1]  <unspec>  10.0.0.0/8  <unspec>  cellular
+*I  #5154839  10.1s  Highway.car[1]  cellular 10.0.21.61
+*I  #5154839  10.1s  Highway.car[1]  cellular 10.0.21.61
+-R #5154839  10.1s  Highway.car[1]  <unspec>  10.0.0.0/8  <unspec>  cellular
++R #5154839  10.1s  Highway.car[1]  <unspec>  10.0.0.0/8  <unspec>  cellular
+*I  #5154839  10.1s  Highway.car[1]  cellular 10.0.21.61
+-R #5154839  10.1s  Highway.car[1]  <unspec>  10.0.0.0/8  <unspec>  cellular
++R #5154839  10.1s  Highway.car[1]  <unspec>  10.0.0.0/8  <unspec>  cellular
+*I  #5154839  10.1s  Highway.car[1]  cellular 10.0.21.61
+-R #5154839  10.1s  Highway.car[1]  <unspec>  10.0.0.0/8  <unspec>  cellular
++R #5154839  10.1s  Highway.car[1]  <unspec>  10.0.0.0/8  <unspec>  cellular
+*I  #5154839  10.1s  Highway.car[1]  lo0 127.0.0.1
+-R #5154839  10.1s  Highway.car[1]  <unspec>  10.0.0.0/8  <unspec>  cellular
++R #5154839  10.1s  Highway.car[1]  <unspec>  127.0.0.0/8  <unspec>  lo0
++R #5154839  10.1s  Highway.car[1]  <unspec>  10.0.0.0/8  <unspec>  cellular
+*I  #5154839  10.1s  Highway.car[1]  lo0 127.0.0.1
+-R #5154839  10.1s  Highway.car[1]  <unspec>  10.0.0.0/8  <unspec>  cellular
+-R #5154839  10.1s  Highway.car[1]  <unspec>  127.0.0.0/8  <unspec>  lo0
++R #5154839  10.1s  Highway.car[1]  <unspec>  127.0.0.0/8  <unspec>  lo0
++R #5154839  10.1s  Highway.car[1]  <unspec>  10.0.0.0/8  <unspec>  cellular
+*I  #5154839  10.1s  Highway.car[1]  lo0 127.0.0.1
++R #5154839  10.1s  Highway.car[1]  10.0.21.61  <unspec>/0  <unspec>  cellular
+*I  #5154839  10.1s  Highway.car[1]  cellular 10.0.21.61
+-R #5154839  10.1s  Highway.car[1]  10.0.21.61  10.0.0.0/8  <unspec>  cellular
+-R #5154839  10.1s  Highway.car[1]  10.0.21.61  127.0.0.0/8  <unspec>  lo0
++R #5154839  10.1s  Highway.car[1]  10.0.21.61  127.0.0.0/8  <unspec>  lo0
++R #5154839  10.1s  Highway.car[1]  10.0.21.61  10.0.0.0/8  <unspec>  cellular
+*I  #10322766  20.1s  Highway.car[2]  lo0 <unspec>
+*I  #10322766  20.1s  Highway.car[2]  cellularNic <unspec>
++I  #10322766  20.1s  Highway.car[2]  lo0 <unspec>
+*I  #10322766  20.1s  Highway.car[2]  lo0 <unspec>
+*I  #10322766  20.1s  Highway.car[2]  lo0 <unspec>
+*I  #10322766  20.1s  Highway.car[2]  cellularNic <unspec>
+*I  #10322766  20.1s  Highway.car[2]  cellularNic <unspec>
+*I  #10322766  20.1s  Highway.car[2]  cellularNic <unspec>
+*I  #10322766  20.1s  Highway.car[2]  cellularNic <unspec>
++I  #10322766  20.1s  Highway.car[2]  cellularNic <unspec>
+*I  #10322766  20.1s  Highway.car[2]  cellular <unspec>
+*I  #10322766  20.1s  Highway.car[2]  cellular <unspec>
+*I  #10322766  20.1s  Highway.car[2]  cellular <unspec>
+*I  #10322766  20.1s  Highway.car[2]  cellular <unspec>
+*I  #10322766  20.1s  Highway.car[2]  cellular <unspec>
+*I  #10322766  20.1s  Highway.car[2]  lo0 <unspec>
+*I  #10322766  20.1s  Highway.car[2]  cellular <unspec>
+*I  #10322766  20.1s  Highway.car[2]  cellular 10.0.21.121
++R #10322766  20.1s  Highway.car[2]  <unspec>  10.0.0.0/8  <unspec>  cellular
+*I  #10322766  20.1s  Highway.car[2]  cellular 10.0.21.121
+*I  #10322766  20.1s  Highway.car[2]  cellular 10.0.21.121
+-R #10322766  20.1s  Highway.car[2]  <unspec>  10.0.0.0/8  <unspec>  cellular
++R #10322766  20.1s  Highway.car[2]  <unspec>  10.0.0.0/8  <unspec>  cellular
+*I  #10322766  20.1s  Highway.car[2]  cellular 10.0.21.121
+-R #10322766  20.1s  Highway.car[2]  <unspec>  10.0.0.0/8  <unspec>  cellular
++R #10322766  20.1s  Highway.car[2]  <unspec>  10.0.0.0/8  <unspec>  cellular
+*I  #10322766  20.1s  Highway.car[2]  cellular 10.0.21.121
+-R #10322766  20.1s  Highway.car[2]  <unspec>  10.0.0.0/8  <unspec>  cellular
++R #10322766  20.1s  Highway.car[2]  <unspec>  10.0.0.0/8  <unspec>  cellular
+*I  #10322766  20.1s  Highway.car[2]  lo0 127.0.0.1
+-R #10322766  20.1s  Highway.car[2]  <unspec>  10.0.0.0/8  <unspec>  cellular
++R #10322766  20.1s  Highway.car[2]  <unspec>  127.0.0.0/8  <unspec>  lo0
++R #10322766  20.1s  Highway.car[2]  <unspec>  10.0.0.0/8  <unspec>  cellular
+*I  #10322766  20.1s  Highway.car[2]  lo0 127.0.0.1
+-R #10322766  20.1s  Highway.car[2]  <unspec>  10.0.0.0/8  <unspec>  cellular
+-R #10322766  20.1s  Highway.car[2]  <unspec>  127.0.0.0/8  <unspec>  lo0
++R #10322766  20.1s  Highway.car[2]  <unspec>  127.0.0.0/8  <unspec>  lo0
++R #10322766  20.1s  Highway.car[2]  <unspec>  10.0.0.0/8  <unspec>  cellular
+*I  #10322766  20.1s  Highway.car[2]  lo0 127.0.0.1
++R #10322766  20.1s  Highway.car[2]  10.0.21.121  <unspec>/0  <unspec>  cellular
+*I  #10322766  20.1s  Highway.car[2]  cellular 10.0.21.121
+-R #10322766  20.1s  Highway.car[2]  10.0.21.121  10.0.0.0/8  <unspec>  cellular
+-R #10322766  20.1s  Highway.car[2]  10.0.21.121  127.0.0.0/8  <unspec>  lo0
++R #10322766  20.1s  Highway.car[2]  10.0.21.121  127.0.0.0/8  <unspec>  lo0
++R #10322766  20.1s  Highway.car[2]  10.0.21.121  10.0.0.0/8  <unspec>  cellular
+*I  #15554427  30.1s  Highway.car[3]  lo0 <unspec>
+*I  #15554427  30.1s  Highway.car[3]  cellularNic <unspec>
++I  #15554427  30.1s  Highway.car[3]  lo0 <unspec>
+*I  #15554427  30.1s  Highway.car[3]  lo0 <unspec>
+*I  #15554427  30.1s  Highway.car[3]  lo0 <unspec>
+*I  #15554427  30.1s  Highway.car[3]  cellularNic <unspec>
+*I  #15554427  30.1s  Highway.car[3]  cellularNic <unspec>
+*I  #15554427  30.1s  Highway.car[3]  cellularNic <unspec>
+*I  #15554427  30.1s  Highway.car[3]  cellularNic <unspec>
++I  #15554427  30.1s  Highway.car[3]  cellularNic <unspec>
+*I  #15554427  30.1s  Highway.car[3]  cellular <unspec>
+*I  #15554427  30.1s  Highway.car[3]  cellular <unspec>
+*I  #15554427  30.1s  Highway.car[3]  cellular <unspec>
+*I  #15554427  30.1s  Highway.car[3]  cellular <unspec>
+*I  #15554427  30.1s  Highway.car[3]  cellular <unspec>
+*I  #15554427  30.1s  Highway.car[3]  lo0 <unspec>
+*I  #15554427  30.1s  Highway.car[3]  cellular <unspec>
+*I  #15554427  30.1s  Highway.car[3]  cellular 10.0.21.177
++R #15554427  30.1s  Highway.car[3]  <unspec>  10.0.0.0/8  <unspec>  cellular
+*I  #15554427  30.1s  Highway.car[3]  cellular 10.0.21.177
+*I  #15554427  30.1s  Highway.car[3]  cellular 10.0.21.177
+-R #15554427  30.1s  Highway.car[3]  <unspec>  10.0.0.0/8  <unspec>  cellular
++R #15554427  30.1s  Highway.car[3]  <unspec>  10.0.0.0/8  <unspec>  cellular
+*I  #15554427  30.1s  Highway.car[3]  cellular 10.0.21.177
+-R #15554427  30.1s  Highway.car[3]  <unspec>  10.0.0.0/8  <unspec>  cellular
++R #15554427  30.1s  Highway.car[3]  <unspec>  10.0.0.0/8  <unspec>  cellular
+*I  #15554427  30.1s  Highway.car[3]  cellular 10.0.21.177
+-R #15554427  30.1s  Highway.car[3]  <unspec>  10.0.0.0/8  <unspec>  cellular
++R #15554427  30.1s  Highway.car[3]  <unspec>  10.0.0.0/8  <unspec>  cellular
+*I  #15554427  30.1s  Highway.car[3]  lo0 127.0.0.1
+-R #15554427  30.1s  Highway.car[3]  <unspec>  10.0.0.0/8  <unspec>  cellular
++R #15554427  30.1s  Highway.car[3]  <unspec>  127.0.0.0/8  <unspec>  lo0
++R #15554427  30.1s  Highway.car[3]  <unspec>  10.0.0.0/8  <unspec>  cellular
+*I  #15554427  30.1s  Highway.car[3]  lo0 127.0.0.1
+-R #15554427  30.1s  Highway.car[3]  <unspec>  10.0.0.0/8  <unspec>  cellular
+-R #15554427  30.1s  Highway.car[3]  <unspec>  127.0.0.0/8  <unspec>  lo0
++R #15554427  30.1s  Highway.car[3]  <unspec>  127.0.0.0/8  <unspec>  lo0
++R #15554427  30.1s  Highway.car[3]  <unspec>  10.0.0.0/8  <unspec>  cellular
+*I  #15554427  30.1s  Highway.car[3]  lo0 127.0.0.1
++R #15554427  30.1s  Highway.car[3]  10.0.21.177  <unspec>/0  <unspec>  cellular
+*I  #15554427  30.1s  Highway.car[3]  cellular 10.0.21.177
+-R #15554427  30.1s  Highway.car[3]  10.0.21.177  10.0.0.0/8  <unspec>  cellular
+-R #15554427  30.1s  Highway.car[3]  10.0.21.177  127.0.0.0/8  <unspec>  lo0
++R #15554427  30.1s  Highway.car[3]  10.0.21.177  127.0.0.0/8  <unspec>  lo0
++R #15554427  30.1s  Highway.car[3]  10.0.21.177  10.0.0.0/8  <unspec>  cellular
+*I  #20849708  40.1s  Highway.car[4]  lo0 <unspec>
+*I  #20849708  40.1s  Highway.car[4]  cellularNic <unspec>
++I  #20849708  40.1s  Highway.car[4]  lo0 <unspec>
+*I  #20849708  40.1s  Highway.car[4]  lo0 <unspec>
+*I  #20849708  40.1s  Highway.car[4]  lo0 <unspec>
+*I  #20849708  40.1s  Highway.car[4]  cellularNic <unspec>
+*I  #20849708  40.1s  Highway.car[4]  cellularNic <unspec>
+*I  #20849708  40.1s  Highway.car[4]  cellularNic <unspec>
+*I  #20849708  40.1s  Highway.car[4]  cellularNic <unspec>
++I  #20849708  40.1s  Highway.car[4]  cellularNic <unspec>
+*I  #20849708  40.1s  Highway.car[4]  cellular <unspec>
+*I  #20849708  40.1s  Highway.car[4]  cellular <unspec>
+*I  #20849708  40.1s  Highway.car[4]  cellular <unspec>
+*I  #20849708  40.1s  Highway.car[4]  cellular <unspec>
+*I  #20849708  40.1s  Highway.car[4]  cellular <unspec>
+*I  #20849708  40.1s  Highway.car[4]  lo0 <unspec>
+*I  #20849708  40.1s  Highway.car[4]  cellular <unspec>
+*I  #20849708  40.1s  Highway.car[4]  cellular 10.0.21.237
++R #20849708  40.1s  Highway.car[4]  <unspec>  10.0.0.0/8  <unspec>  cellular
+*I  #20849708  40.1s  Highway.car[4]  cellular 10.0.21.237
+*I  #20849708  40.1s  Highway.car[4]  cellular 10.0.21.237
+-R #20849708  40.1s  Highway.car[4]  <unspec>  10.0.0.0/8  <unspec>  cellular
++R #20849708  40.1s  Highway.car[4]  <unspec>  10.0.0.0/8  <unspec>  cellular
+*I  #20849708  40.1s  Highway.car[4]  cellular 10.0.21.237
+-R #20849708  40.1s  Highway.car[4]  <unspec>  10.0.0.0/8  <unspec>  cellular
++R #20849708  40.1s  Highway.car[4]  <unspec>  10.0.0.0/8  <unspec>  cellular
+*I  #20849708  40.1s  Highway.car[4]  cellular 10.0.21.237
+-R #20849708  40.1s  Highway.car[4]  <unspec>  10.0.0.0/8  <unspec>  cellular
++R #20849708  40.1s  Highway.car[4]  <unspec>  10.0.0.0/8  <unspec>  cellular
+*I  #20849708  40.1s  Highway.car[4]  lo0 127.0.0.1
+-R #20849708  40.1s  Highway.car[4]  <unspec>  10.0.0.0/8  <unspec>  cellular
++R #20849708  40.1s  Highway.car[4]  <unspec>  127.0.0.0/8  <unspec>  lo0
++R #20849708  40.1s  Highway.car[4]  <unspec>  10.0.0.0/8  <unspec>  cellular
+*I  #20849708  40.1s  Highway.car[4]  lo0 127.0.0.1
+-R #20849708  40.1s  Highway.car[4]  <unspec>  10.0.0.0/8  <unspec>  cellular
+-R #20849708  40.1s  Highway.car[4]  <unspec>  127.0.0.0/8  <unspec>  lo0
++R #20849708  40.1s  Highway.car[4]  <unspec>  127.0.0.0/8  <unspec>  lo0
++R #20849708  40.1s  Highway.car[4]  <unspec>  10.0.0.0/8  <unspec>  cellular
+*I  #20849708  40.1s  Highway.car[4]  lo0 127.0.0.1
++R #20849708  40.1s  Highway.car[4]  10.0.21.237  <unspec>/0  <unspec>  cellular
+*I  #20849708  40.1s  Highway.car[4]  cellular 10.0.21.237
+-R #20849708  40.1s  Highway.car[4]  10.0.21.237  10.0.0.0/8  <unspec>  cellular
+-R #20849708  40.1s  Highway.car[4]  10.0.21.237  127.0.0.0/8  <unspec>  lo0
++R #20849708  40.1s  Highway.car[4]  10.0.21.237  127.0.0.0/8  <unspec>  lo0
++R #20849708  40.1s  Highway.car[4]  10.0.21.237  10.0.0.0/8  <unspec>  cellular
+*I  #26208733  50.1s  Highway.car[5]  lo0 <unspec>
+*I  #26208733  50.1s  Highway.car[5]  cellularNic <unspec>
++I  #26208733  50.1s  Highway.car[5]  lo0 <unspec>
+*I  #26208733  50.1s  Highway.car[5]  lo0 <unspec>
+*I  #26208733  50.1s  Highway.car[5]  lo0 <unspec>
+*I  #26208733  50.1s  Highway.car[5]  cellularNic <unspec>
+*I  #26208733  50.1s  Highway.car[5]  cellularNic <unspec>
+*I  #26208733  50.1s  Highway.car[5]  cellularNic <unspec>
+*I  #26208733  50.1s  Highway.car[5]  cellularNic <unspec>
++I  #26208733  50.1s  Highway.car[5]  cellularNic <unspec>
+*I  #26208733  50.1s  Highway.car[5]  cellular <unspec>
+*I  #26208733  50.1s  Highway.car[5]  cellular <unspec>
+*I  #26208733  50.1s  Highway.car[5]  cellular <unspec>
+*I  #26208733  50.1s  Highway.car[5]  cellular <unspec>
+*I  #26208733  50.1s  Highway.car[5]  cellular <unspec>
+*I  #26208733  50.1s  Highway.car[5]  lo0 <unspec>
+*I  #26208733  50.1s  Highway.car[5]  cellular <unspec>
+*I  #26208733  50.1s  Highway.car[5]  cellular 10.0.22.37
++R #26208733  50.1s  Highway.car[5]  <unspec>  10.0.0.0/8  <unspec>  cellular
+*I  #26208733  50.1s  Highway.car[5]  cellular 10.0.22.37
+*I  #26208733  50.1s  Highway.car[5]  cellular 10.0.22.37
+-R #26208733  50.1s  Highway.car[5]  <unspec>  10.0.0.0/8  <unspec>  cellular
++R #26208733  50.1s  Highway.car[5]  <unspec>  10.0.0.0/8  <unspec>  cellular
+*I  #26208733  50.1s  Highway.car[5]  cellular 10.0.22.37
+-R #26208733  50.1s  Highway.car[5]  <unspec>  10.0.0.0/8  <unspec>  cellular
++R #26208733  50.1s  Highway.car[5]  <unspec>  10.0.0.0/8  <unspec>  cellular
+*I  #26208733  50.1s  Highway.car[5]  cellular 10.0.22.37
+-R #26208733  50.1s  Highway.car[5]  <unspec>  10.0.0.0/8  <unspec>  cellular
++R #26208733  50.1s  Highway.car[5]  <unspec>  10.0.0.0/8  <unspec>  cellular
+*I  #26208733  50.1s  Highway.car[5]  lo0 127.0.0.1
+-R #26208733  50.1s  Highway.car[5]  <unspec>  10.0.0.0/8  <unspec>  cellular
++R #26208733  50.1s  Highway.car[5]  <unspec>  127.0.0.0/8  <unspec>  lo0
++R #26208733  50.1s  Highway.car[5]  <unspec>  10.0.0.0/8  <unspec>  cellular
+*I  #26208733  50.1s  Highway.car[5]  lo0 127.0.0.1
+-R #26208733  50.1s  Highway.car[5]  <unspec>  10.0.0.0/8  <unspec>  cellular
+-R #26208733  50.1s  Highway.car[5]  <unspec>  127.0.0.0/8  <unspec>  lo0
++R #26208733  50.1s  Highway.car[5]  <unspec>  127.0.0.0/8  <unspec>  lo0
++R #26208733  50.1s  Highway.car[5]  <unspec>  10.0.0.0/8  <unspec>  cellular
+*I  #26208733  50.1s  Highway.car[5]  lo0 127.0.0.1
++R #26208733  50.1s  Highway.car[5]  10.0.22.37  <unspec>/0  <unspec>  cellular
+*I  #26208733  50.1s  Highway.car[5]  cellular 10.0.22.37
+-R #26208733  50.1s  Highway.car[5]  10.0.22.37  10.0.0.0/8  <unspec>  cellular
+-R #26208733  50.1s  Highway.car[5]  10.0.22.37  127.0.0.0/8  <unspec>  lo0
++R #26208733  50.1s  Highway.car[5]  10.0.22.37  127.0.0.0/8  <unspec>  lo0
++R #26208733  50.1s  Highway.car[5]  10.0.22.37  10.0.0.0/8  <unspec>  cellular
